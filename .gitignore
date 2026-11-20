@@ -1,0 +1,19 @@
+.env
+__pycache__/
+
+# Node / Next.js app
+node_modules/
+web/.next/
+web/out/
+web/coverage/
+web/playwright-report/
+web/test-results/
+npm-debug.log*
+
+# Local Python and editor artifacts
+.venv/
+venv/
+
+.agents/
+.vscode/
+skills/

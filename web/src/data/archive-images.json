@@ -1,0 +1,45 @@
+{
+  "homeHero": {
+    "id": "port-said-waterfront-1934-1939",
+    "localFilename": "port-said-waterfront-1934-1939.webp",
+    "src": "/images/port-said-waterfront-1934-1939.webp",
+    "alt": "واجهة بورسعيد على القناة، باتجاه الجنوب، بين 1934 و1939.",
+    "caption": "واجهة بورسعيد على القناة، باتجاه الجنوب.",
+    "historicalDate": "بين 1934 و1939",
+    "creator": "مجموعة ماتسون؛ لم يُحدَّد اسم المصوّر في سجل الملف.",
+    "credit": "مجموعة إريك وإديث ماتسون الفوتوغرافية، مكتبة الكونغرس.",
+    "license": "علامة الملك العام 1.0؛ تذكر مكتبة الكونغرس عدم وجود قيود معروفة على النشر.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egypt._Port_Said_%26_canal_zone._Port_Said,_water_front_along_the_canal_looking_south_LOC_matpc.22331.jpg",
+    "sourceRecordUrl": "https://www.loc.gov/pictures/collection/matpc/item/mpc2010007935/PP"
+  },
+  "eras": {
+    "1900-1909": [
+      {
+        "id": "suez-canal-company-admin-building-1900",
+        "localFilename": "suez-canal-company-admin-building-1900.webp",
+        "src": "/images/suez-canal-company-admin-building-1900.webp",
+        "alt": "صورة مجسّمة لمبنى إدارة شركة قناة السويس في بورسعيد.",
+        "caption": "مبنى إدارة شركة قناة السويس في بورسعيد.",
+        "historicalDate": "1900",
+        "creator": "مجموعة ماتسون؛ لم يُحدَّد اسم المصوّر في سجل الملف.",
+        "credit": "مجموعة إريك وإديث ماتسون الفوتوغرافية، مكتبة الكونغرس.",
+        "license": "علامة الملك العام 1.0؛ تذكر مكتبة الكونغرس عدم وجود قيود معروفة على النشر.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_views;_Port_Said._Administration_building_of_the_Suez_Canal_Company_LOC_matpc.01457.jpg",
+        "sourceRecordUrl": "https://www.loc.gov/pictures/collection/matpc/item/mpc2004001547/PP"
+      },
+      {
+        "id": "port-said-coaling-steamer-1900",
+        "localFilename": "port-said-coaling-steamer-1900.webp",
+        "src": "/images/port-said-coaling-steamer-1900.webp",
+        "alt": "صورة مجسّمة لعملية تزويد باخرة بالفحم في بورسعيد.",
+        "caption": "تزويد باخرة بالفحم في ميناء بورسعيد.",
+        "historicalDate": "1900 في سجل كومنز؛ يذكر سجل مكتبة الكونغرس نطاقًا تقريبيًا من 1900 إلى 1920.",
+        "creator": "American Colony (Jerusalem), Photo Department (وفق سجل مكتبة الكونغرس).",
+        "credit": "مجموعة إريك وإديث ماتسون الفوتوغرافية، مكتبة الكونغرس.",
+        "license": "علامة الملك العام 1.0؛ تذكر مكتبة الكونغرس عدم وجود قيود معروفة على النشر.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_views;_Port_Said._Natives_coaling_a_steamer_at_Port_Said_LOC_matpc.01456.jpg",
+        "sourceRecordUrl": "https://www.loc.gov/item/2019692938/"
+      }
+    ]
+  }
+}
